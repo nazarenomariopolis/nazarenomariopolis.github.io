@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Igreja do Nazareno em Mariópolis
 
 Site oficial da Igreja do Nazareno em Mariópolis. Aqui você encontra informações sobre eventos, cultos e atividades da nossa comunidade cristã.
@@ -32,9 +31,8 @@ O site está disponível em:
 
 ## 📱 SEO e Compartilhamento Social
 
-O site está otimizado para motores de busca (SEO) e o compartilhamento em redes sociais, utilizando metatags Open Graph e Twitter Card para melhorar a visualização ao compartilhar o link.
+O site está otimizado para motores de busca (SEO) e para compartilhamento em redes sociais, utilizando metatags Open Graph e Twitter Card para melhor visualização ao compartilhar o link.
 
 ## 📝 Licença
 
 &copy; 2025 Igreja do Nazareno em Mariópolis. Todos os direitos reservados.
-````
