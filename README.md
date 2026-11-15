@@ -1,38 +1,66 @@
-# Igreja do Nazareno em Mariópolis
+<div align="center">
+  <img src="logo-512.webp" alt="Logo da Igreja do Nazareno em Mariópolis" width="96" />
 
-Site oficial da Igreja do Nazareno em Mariópolis. Aqui você encontra informações sobre eventos, cultos e atividades da nossa comunidade cristã.
+  # Igreja do Nazareno em Mariópolis
 
-## ✨ Sobre
+  **Um lugar de fé, comunhão, adoração e esperança.**
 
-Este site tem como objetivo informar e conectar membros e visitantes da Igreja do Nazareno em Mariópolis. Fique por dentro de nossos eventos, leia sobre nossa história e saiba como entrar em contato conosco.
+  [Acesse o site](https://nazarenomariopolis.github.io/) · [Instagram](https://instagram.com/nazarenomariopolis) · [Facebook](https://www.facebook.com/nazarenomariopolis)
+</div>
 
-## 📁 Estrutura do Projeto
+---
 
-- `index.html`: Página inicial do site.
-- `sobre.html`: Informações sobre a igreja.
-- `eventos.html`: Agenda de eventos e cultos.
-- `contato.html`: Formulário e informações para contato.
-- `style.css`: Estilos visuais do site.
-- `script.js`: Scripts para interatividade (como menu responsivo).
-- `nazareno-mariopolis.jpg`: Logo da igreja.
-- `favicon.ico`: Ícone do site.
-- `thumbnail.jpg`: Imagem de destaque para redes sociais.
+## Sobre o projeto
 
-## 🚀 Como acessar
+Site institucional da **Igreja do Nazareno em Mariópolis**, criado para aproximar a comunidade e acolher quem deseja conhecê-la. Em uma experiência responsiva e acessível, reúne informações sobre a igreja, horários de cultos, notícias, localização e formas de contato.
 
-O site está disponível em:  
-[https://nazarenomariopolis.github.io/](https://nazarenomariopolis.github.io/)
+![Prévia do site da Igreja do Nazareno em Mariópolis](image-preview.jpg)
 
-## 🛠️ Tecnologias Utilizadas
+## O que você encontra
 
-- HTML5
-- CSS3
-- JavaScript
+- **Apresentação da igreja** e da sua comunidade.
+- **Horários de cultos e encontros**, incluindo a Escola Bíblica Dominical.
+- **Notícias e novidades** da igreja.
+- **Identidade e história**, com informações sobre a fé e a missão da comunidade.
+- **Localização**, endereço e mapa interativo.
+- **Contato** por e-mail e acesso às redes sociais.
 
-## 📱 SEO e Compartilhamento Social
+## Design e experiência
 
-O site está otimizado para motores de busca (SEO) e para compartilhamento em redes sociais, utilizando metatags Open Graph e Twitter Card para melhor visualização ao compartilhar o link.
+A identidade visual combina azul-marinho, dourado e tipografia contemporânea. O layout adapta-se a dispositivos móveis e inclui navegação responsiva, cartões informativos, animações sutis e mapa interativo.
 
-## 📝 Licença
+## Tecnologias
 
-&copy; 2025 Igreja do Nazareno em Mariópolis. Todos os direitos reservados.
+- HTML5, CSS3 e JavaScript
+- [Bootstrap 5](https://getbootstrap.com/) e Bootstrap Icons
+- [Leaflet](https://leafletjs.com/) para o mapa
+- Google Fonts: DM Sans e Manrope
+- OpenStreetMap como fonte de dados cartográficos
+
+O site é estático e não requer instalação de dependências nem etapa de build. Para visualizar localmente, clone o repositório e abra `index.html` no navegador. Como o mapa, as fontes e alguns recursos são carregados de serviços externos, é necessária uma conexão com a internet para exibir tudo corretamente.
+
+## Estrutura
+
+```text
+.
+├── index.html          # Página do site e estilos/scripts incorporados
+├── image-preview.jpg   # Imagem de prévia para compartilhamento
+├── logo-1024.webp      # Logo em alta resolução
+├── logo-512.webp       # Logo e ícone do site
+├── nazareno-mariopolis.jpg
+├── thumbnail.jpg       # Imagem de destaque
+└── favicon.ico
+```
+
+## SEO e compartilhamento
+
+A página inclui metadados para mecanismos de busca, cartões Open Graph e Twitter, além de dados estruturados **Schema.org** para identificar a igreja e apresentar informações de contato e localização.
+
+## Contato e localização
+
+**Endereço:** Rua Leopoldina Borges, 266 — Mariópolis, RJ, Brasil  
+**E-mail:** [nazarenomariopolis@gmail.com](mailto:nazarenomariopolis@gmail.com)
+
+## Licença
+
+© Igreja do Nazareno em Mariópolis. Todos os direitos reservados.
